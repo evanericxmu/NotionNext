@@ -18,7 +18,7 @@ const CONFIG = {
   HERO_TITLE_LINK: 'https://www.bibleshare.top',
 
   // 英雄区显示三个置顶分类
-  HERO_CATEGORY_1: { title: '辰兴圣言学习', url: '/tag/晨兴圣言' },
+  HERO_CATEGORY_1: { title: '晨兴圣言学习', url: '/tag/晨兴圣言' },
   HERO_CATEGORY_2: { title: '中国大陆代祷', url: '/tag/代祷' },
   HERO_CATEGORY_3: { title: '蒙神垂听', url: '/tag/蒙神垂听' },
 
@@ -28,7 +28,8 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   INFOCARD_GREETINGS: [
-    '你好！我是',
+    '你好！我是', 
+    Alice Lin
     '🔍 分享与热心帮助',
     '🏃 脚踏实地行动派',
   
