@@ -5,7 +5,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://www.bibleshare.top' },
+    { title: 'Welcome to My Blog', url: 'https://www.bibleshare.top' },
     { title: '神的恩典', url: 'https://www.bibleshare.top' }
   ],
 
@@ -28,7 +28,7 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   INFOCARD_GREETINGS: [
-    '你好！我是', 
+    '你好！我是博主', 
     '🔍 分享与热心帮助',
     '🏃 脚踏实地行动派',
   
