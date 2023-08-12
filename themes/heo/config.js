@@ -12,7 +12,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HERO_TITLE_1: '每日晨祷',
   HERO_TITLE_2: '蒙神垂听',
-  HERO_TITLE_3: 'bibleshare.top',
+  HERO_TITLE_3: 'www.bibleshare.top',
   HERO_TITLE_4: '神圣学习',
   HERO_TITLE_5: '晨兴圣言',
   HERO_TITLE_LINK: 'https://www.bibleshare.top',
