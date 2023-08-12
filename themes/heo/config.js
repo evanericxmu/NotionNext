@@ -29,7 +29,6 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   INFOCARD_GREETINGS: [
     '你好！我是', 
-    Alice Lin
     '🔍 分享与热心帮助',
     '🏃 脚踏实地行动派',
   
