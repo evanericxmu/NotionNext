@@ -10,8 +10,8 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: '每日晨祷',
-  HERO_TITLE_2: '蒙神垂听',
+  HERO_TITLE_1: '每日晨祷 Daily Morning Prayer',
+  HERO_TITLE_2: '蒙神垂听 May God incline His ear',
   HERO_TITLE_3: 'www.bibleshare.top',
   HERO_TITLE_4: '神圣学习',
   HERO_TITLE_5: '晨兴圣言',
