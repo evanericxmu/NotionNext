@@ -1,7 +1,7 @@
 const CONFIG = {
   HOME_BANNER_ENABLE: true,
 
-  SITE_CREATE_TIME: '2023-08-06', // 建站日期，用于计算网站运行的第几天
+  SITE_CREATE_TIME: '2023-08-02', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
@@ -28,7 +28,7 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   INFOCARD_GREETINGS: [
-    '你好！我是博主', 
+    'Hello, I am the Blogger', 
     '🔍 分享与热心帮助',
     '🏃 脚踏实地行动派',
   
