@@ -18,7 +18,7 @@ const CONFIG = {
   HERO_TITLE_LINK: 'https://www.bibleshare.top',
 
   // 英雄区显示三个置顶分类
-  HERO_CATEGORY_1: { title: '晨兴圣言', url: '/tag/晨兴圣言' },
+  HERO_CATEGORY_1: { title: '召会生活', url: '/tag/召会生活' },
   HERO_CATEGORY_2: { title: '圣经故事', url: '/tag/圣经故事' },
   HERO_CATEGORY_3: { title: '蒙神垂听', url: '/tag/蒙神垂听' },
 
